@@ -2,58 +2,177 @@
 
 ## My Must have list for Full Stack Web-Development
 
-### 01.Sublime-Style-Column-Selection
+### 01
 
-### 02.atom-beautify
+```text
+Sublime-Style-Column-Selection
+```
 
-### 03.atom-clock
+### 02
 
-### 04.atom-html-preview
+```text
+atom-beautify
+```
 
-### 05.atom-ternis
+### 03
 
-### 06.autoclose-html
+```text
+atom-clock
+```
 
-### 07.autocomplete
+### 04
 
-### 08.busy-signal
+```text
+atom-html-preview
+```
+### 05
 
-### 09.csslint
+```text
+atom-ternis
+```
 
-### 10.emmet
+### 06
 
-### 11.file-icons
+```text
+autoclose-html
+```
 
-### 12.git-time-machine
+### 07
 
-### 13.highlight-selected
+```text
+autocomplete
+```
 
-### 14.hyperclick
+### 08
 
-### 15.intentions
+```text
+busy-signal
+```
 
-### 16.language-babel
+### 09
 
-### 17.language-ejs
+```text
+csslint
+```
 
-### 18.language-markdown
+### 10
 
-### 19.linter
+```text
+emmet
+```
 
-### 20.linter-ui-default
+### 11
 
-### 21.markdown-writer
+```text
+file-icons
+```
 
-### 22.minimap
+### 12
 
-### 23.miniprettier
+```text
+git-time-machine
+```
 
-### 24.pigments
+### 13
 
-### 25.pp-markdown
+```text
+highlight-selected
+```
 
-### 26.react-snippets
+### 14
 
-### 27.turbo-javascript
+```text
+hyperclick
+```
 
-### 28.wakatime
+### 15
+
+```text
+intentions
+```
+
+### 16
+
+```text
+language-babel
+```
+
+### 17
+
+```text
+language-ejs
+```
+
+### 18
+
+```text
+language-markdown
+```
+
+### 19
+
+```text
+linter
+```
+
+### 20
+
+```text
+linter-ui-default
+```
+
+### 21
+
+```text
+markdown-writer
+```
+
+### 22
+
+```text
+minimap
+```
+
+### 23
+
+```text
+miniprettier
+```
+
+### 24
+
+```text
+pigments
+```
+
+### 25
+
+```text
+pp-markdown
+```
+
+### 26
+
+```text
+react-snippets
+```
+
+### 27
+
+```text
+turbo-javascript
+```
+
+### 28
+
+```text
+wakatime
+```
+
+## Next to do here
+
+### Add some instruction
+
+### Add some description
+
+### Add some other misscallaneous plugings which I have used

@@ -12,18 +12,18 @@
 ### To check Update
 
 ```bash
-$ dnf check-update
+dnf check-update
 ```
 
 ### To start the upgrade after you went through the list of updates available
 
 ```bash
-$ sudo dnf upgrade
+sudo dnf upgrade
 
 ```
 
 ### After the above is complete it's reccomended to reboot even though not neccessary; You can do the same by manual reboot or just run the below
 
 ```bash
-$ sudo shutdown -r now
+sudo shutdown -r now
 ```
