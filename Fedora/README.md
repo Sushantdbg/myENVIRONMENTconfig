@@ -35,4 +35,39 @@ sudo shutdown -r now
 sudo dnf install gnome-tweaks
 ```
 
+# Plugins that I install
+
+## Clipboard Indicator by Tudmotu
+
+## Places Status Indicator by fmuellner
+
+## Caffeine by eon
+
+Dash to Panel by charlesg99
+
+Coverflow Alt-Tab by p91paul
+
+Compiz alike windows effect by hermes83
+
+Compiz alike magic lamp effect by hermes83
+
+Compiz windows effect by hermes83
+
+Transparent Window Moving by Noobsai
+
+Resource Monitor by Ory0n
+
+
+# Installing Vs Code
+
+```
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo'
+`````
+
+````
+dnf check-update
+sudo dnf install code
+````
+# 
 
