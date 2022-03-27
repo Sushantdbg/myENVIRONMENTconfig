@@ -27,3 +27,12 @@ sudo dnf upgrade
 ```bash
 sudo shutdown -r now
 ```
+## Tweaks some setting as per your taste for example checking out the power mode and battery percentage
+
+## Getting the minimise icon and dark mode with Gnome tools
+
+```bash
+sudo dnf install gnome-tweaks
+```
+
+
