@@ -99,3 +99,36 @@ sudo dnf install discord
 ```
 
 > #### There might be issues where you can't screen share in zoom and discord this is due to the limited support of wayland so might just want to switch to Xorg
+
+## Installing Java
+
+#### Serching about all the available versions
+
+```bash
+dnf search openjdk
+```
+
+#### I lean to installing the legacy java 1.8.0 and the latest for mental peace that I have best of both
+
+```bash
+sudo dnf install java-1.8.0-openjdk.x86_64
+sudo dnf install java-latest-openjdk.x86_64
+```
+
+#### Run this to finish it off
+
+```bash
+sudo dnf install java-latest-openjdk-devel.x86_64
+```
+
+#### After installing to know the active java version
+
+```bash
+java -version
+```
+
+#### To switch between the existing java versions
+
+```bash
+sudo alternatives --config java
+```
