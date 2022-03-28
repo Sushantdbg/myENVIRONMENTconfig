@@ -28,11 +28,11 @@ sudo shutdown -r now
 
 ## Tweaks some setting as per your taste for example checking out the power mode and battery percentage
 
-![Turn on Performance and Percentage in setting](./Assets/turnOnPerformanceAndPercentage.png)
+![Turn on Performance and Percentage in setting](./assets/turnOnPerformanceAndPercentage.png)
 
 ## Getting the minimise icon and dark mode with Gnome tools as there's no by default as you can see below
 
-![No minimise by default lmao](./Assets/noMinimiseIcon.png)
+![No minimise by default lmao](./assets/noMinimiseIcon.png)
 
 For that we have to install Gnome Tweaks so run the below
 
