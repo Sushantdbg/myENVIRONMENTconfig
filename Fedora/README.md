@@ -71,3 +71,21 @@ sudo dnf install code
 ````
 # 
 
+
+# DISCORD
+`````
+sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+```
+
+```
+sudo dnf update
+```
+
+````````
+sudo dnf install discord
+````
+
+
+# There might be issues where you can't screen share in zoom and discord this is due to the limited support of wayland so might just want to switch to Xorg
+
+
