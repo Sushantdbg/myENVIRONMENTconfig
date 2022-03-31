@@ -59,13 +59,13 @@
         <GUIConfig name="URL">2</GUIConfig>
         <GUIConfig name="uriCustomizedSchemes">svn:// cvs:// git:// imap:// irc:// irc6:// ircs:// ldap:// ldaps:// news: telnet:// gopher:// ssh:// sftp:// smb:// skype: snmp:// spotify: steam:// sms: slack:// chrome:// bitcoin:</GUIConfig>
         <GUIConfig name="globalOverride" fg="no" bg="no" font="no" fontSize="no" bold="no" italic="no" underline="no" />
-        <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" insertSelectedItemUseENTER="yes" insertSelectedItemUseTAB="no" funcParams="yes" />
+        <GUIConfig name="auto-completion" autoCAction="0" triggerFromNbChar="1" autoCIgnoreNumbers="yes" insertSelectedItemUseENTER="yes" insertSelectedItemUseTAB="no" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="yes" brackets="yes" curlyBrackets="yes" quotes="yes" doubleQuotes="yes" htmlXmlTag="yes" />
         <GUIConfig name="sessionExt"></GUIConfig>
         <GUIConfig name="workspaceExt"></GUIConfig>
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
-        <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
+        <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="yes" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
         <GUIConfig name="stylerTheme" path="C:\Program Files\Notepad++\themes\DarkModeDefault.xml" />
@@ -80,16 +80,22 @@
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorEdge="6579300" customColorLinkText="65535" />
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="indent" currentLineHilitingShow="show" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="2" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="181" topHeight="200" bottomHeight="200">
-            <PluginDlg pluginName="NppExec.dll" id="5" curr="3" prev="-1" isVisible="no" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="425" topHeight="200" bottomHeight="200">
+            <FloatingWindow cont="4" x="985" y="828" width="1730" height="1033" />
+            <PluginDlg pluginName="3P" id="2" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NppExec.dll" id="5" curr="1" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="3P" id="1" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="BookmarksDook.dll" id="0" curr="3" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44081" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44070" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
-            <ActiveTabs cont="1" activeTab="-1" />
+            <ActiveTabs cont="1" activeTab="0" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
 </NotepadPlus>
