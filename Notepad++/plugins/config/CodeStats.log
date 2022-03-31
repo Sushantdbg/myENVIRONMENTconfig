@@ -1,0 +1,14 @@
+[Code::Stats Info 09:45:23 AM] Initializing Code::Stats v1.0.1
+[Code::Stats HandledException 09:45:23 AM] Exception while parsing the proxy string from CodeStats config file. No proxy will be used.: System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Text.RegularExpressions.Regex.Match(String input)
+   at CodeStats.CodeStatsPackage.GetProxy()
+[Code::Stats HandledException 09:45:23 AM] Exception when trying to download latest extension mappings, using local ones instead: System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at CodeStats.CodeStatsPackage.InitializeAsync()
+[Code::Stats HandledException 09:45:23 AM] Exception when checking current CodeStats plugin version: System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at CodeStats.Constants.<>c.<.cctor>b__10_0()
+[Code::Stats Info 09:45:23 AM] Please input your api key into the Code::Stats window.
