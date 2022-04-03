@@ -132,3 +132,10 @@ java -version
 ```bash
 sudo alternatives --config java
 ```
+
+## What are those Fedora outdated versions in grub boot menu
+
+#### By default, Fedora keeps the last 3 kernels to be on the safe side. So in case the newest kernel doesn’t work as well as it should with your hardware, you can reboot into an older one. These are what you see in your grub boot menu.
+
+
+credit : [Ankur Sinha] (https://ask.fedoraproject.org/u/ankursinha)
