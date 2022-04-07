@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="885" startPos="1520" endPos="469" selMode="0" offset="0" wrapCount="1" lang="Java" encoding="-1" userReadOnly="no" filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\07\code.java" backupFilePath="" originalFileLastModifTimestamp="571575999" originalFileLastModifTimestampHigh="30952056" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="9" xOffset="0" scrollWidth="830" startPos="285" endPos="285" selMode="0" offset="0" wrapCount="1" lang="Java" encoding="-1" userReadOnly="no" filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\07\code2.java" backupFilePath="C:\Users\susha\AppData\Roaming\Notepad++\backup\code2.java@2022-04-07_201845" originalFileLastModifTimestamp="-1872488941" originalFileLastModifTimestampHigh="30952078" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>

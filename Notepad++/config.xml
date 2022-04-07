@@ -15,16 +15,16 @@
         <root foldername="C:\Users\susha\OneDrive\Documents" />
     </FileBrowser>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\02\new 1.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\02\src\changingbit.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\02\src\cc.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\03\sortedrotated.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\01\rotated.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\03\duplicatesortedrotated.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\03\countofrotation.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\03\splitlargestsum.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\350. Intersection of Two Arrays II\solution.java" />
-        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\350. Intersection of Two Arrays II\Solution2.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\888. Fair Candy Swap\README.md" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\dailyCODEbits\2022\04april\04\test0404.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\350. Intersection of Two Arrays II\Solution3.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\888. Fair Candy Swap\Solution.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\1346. Check If N and Its Double Exist\Solution.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\1346. Check If N and Its Double Exist\Solution2.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\1608. Special Array With X Elements Greater Than or Equal X\FA#2.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\1608. Special Array With X Elements Greater Than or Equal X\SA#3.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\704. Binary Search\SA#1.java" />
+        <File filename="D:\PROJECTS\Sync with Github\myCODEbits\Leetcode\Problems\888. Fair Candy Swap\trial.java" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,7 +38,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="598" y="27" width="1197" height="1012" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="953" y="189" width="974" height="850" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="1205" top="380" right="1794" bottom="744" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20220415">no</GUIConfig>
@@ -80,10 +80,13 @@
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorEdge="6579300" customColorLinkText="65535" />
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="indent" currentLineHilitingShow="show" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="2" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="425" topHeight="200" bottomHeight="206">
-            <FloatingWindow cont="4" x="1041" y="840" width="1786" height="1045" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="395" topHeight="200" bottomHeight="206">
+            <FloatingWindow cont="4" x="52" y="52" width="572" height="511" />
+            <FloatingWindow cont="4" x="52" y="52" width="572" height="511" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="NppExec.dll" id="5" curr="3" prev="4" isVisible="no" />
+            <PluginDlg pluginName="NppExec.dll" id="5" curr="3" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="NppMarkdownPanel" id="1" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="PreviewHTML.dll" id="0" curr="4" prev="0" isVisible="no" />
             <PluginDlg pluginName="BookmarksDook.dll" id="0" curr="3" prev="-1" isVisible="no" />
             <PluginDlg pluginName="3P" id="2" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="3P" id="1" curr="1" prev="-1" isVisible="no" />
@@ -94,7 +97,8 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="0" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
 </NotepadPlus>
