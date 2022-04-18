@@ -139,3 +139,42 @@ sudo alternatives --config java
 
 
 credit : [Ankur Sinha] (https://ask.fedoraproject.org/u/ankursinha)
+
+Limit battery charger %
+The limit in charging % laptop to 60/80% for helps for better battery health
+sudo vi  /etc/crontab
+
+@reboot sudo echo 80 | sudo tee /sys/class/power_supply/BAT0/charge_control_end_threshold
+
+sudo echo 80 | sudo tee /sys/class/power_supply/BAT0/charge_control_end_threshold
+
+@reboot sudo echo 80 | sudo tee /sys/class/power_supply/BAT0/charge_control_end_threshold
+
+Open a new or existing file with vim filename .
+Type i to switch into insert mode so that you can start editing the file.
+Enter or modify the text with your file.
+Once you're done, press the escape key Esc to get out of insert mode and back to command mode.
+Type :wq to save and exit your file
+
+
+update vim
+
+install crontab
+
+```
+dnf install cronie cronie-anacron
+```
+
+use command to edit crontab
+
+save
+
+enjoy
+
+MISC
+https://github.com/VundleVim/Vundle.vim
+
+https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+
+
+https://stackoverflow.com/questions/5952467/how-to-specify-a-editor-to-open-crontab-file-export-editor-vi-does-not-work
